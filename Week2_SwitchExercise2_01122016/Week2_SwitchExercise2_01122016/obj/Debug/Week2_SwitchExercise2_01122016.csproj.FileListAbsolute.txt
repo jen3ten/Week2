@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\bin\Debug\Week2_SwitchExercise2_01122016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\bin\Debug\Week2_SwitchExercise2_01122016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\bin\Debug\Week2_SwitchExercise2_01122016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\obj\Debug\Week2_SwitchExercise2_01122016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\obj\Debug\Week2_SwitchExercise2_01122016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchExercise2_01122016\Week2_SwitchExercise2_01122016\obj\Debug\Week2_SwitchExercise2_01122016.pdb

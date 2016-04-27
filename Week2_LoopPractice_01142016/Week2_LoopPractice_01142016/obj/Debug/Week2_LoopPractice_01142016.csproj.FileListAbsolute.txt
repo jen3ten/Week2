@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\bin\Debug\Week2_LoopPractice_01142016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\bin\Debug\Week2_LoopPractice_01142016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\bin\Debug\Week2_LoopPractice_01142016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\obj\Debug\Week2_LoopPractice_01142016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\obj\Debug\Week2_LoopPractice_01142016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_LoopPractice_01142016\Week2_LoopPractice_01142016\obj\Debug\Week2_LoopPractice_01142016.pdb

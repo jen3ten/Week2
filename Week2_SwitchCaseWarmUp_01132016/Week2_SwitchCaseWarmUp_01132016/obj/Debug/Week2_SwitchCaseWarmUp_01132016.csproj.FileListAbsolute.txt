@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\bin\Debug\Week2_SwitchCaseWarmUp_01132016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\bin\Debug\Week2_SwitchCaseWarmUp_01132016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\bin\Debug\Week2_SwitchCaseWarmUp_01132016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\obj\Debug\Week2_SwitchCaseWarmUp_01132016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\obj\Debug\Week2_SwitchCaseWarmUp_01132016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2_SwitchCaseWarmUp_01132016\Week2_SwitchCaseWarmUp_01132016\obj\Debug\Week2_SwitchCaseWarmUp_01132016.pdb
